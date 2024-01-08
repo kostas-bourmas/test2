@@ -1,7 +1,4 @@
-# Global repo owner
- 
-# CI scripts & beanstalk envs
-*.config @kostas-bourmas
+#*.config @kostas-bourmas  
 *.groovy @kostas-bourmas
 .elasticbeanstalk @kostas-bourmas
 *.conf @kostas-bourmas
